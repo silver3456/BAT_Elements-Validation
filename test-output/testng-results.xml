@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="38745" started-at="2017-02-26T06:50:40Z" finished-at="2017-02-26T06:51:18Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="38745" started-at="2017-02-26T06:50:40Z" finished-at="2017-02-26T06:51:18Z">
+      <class name="core.ElementsValidationTest">
+        <test-method status="PASS" signature="bm(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.ElementsValidationTest@61832929]" test-instance-name="text (current location)" name="bm" is-config="true" duration-ms="15" started-at="2017-02-25T22:50:40Z" finished-at="2017-02-25T22:50:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.ElementsValidationTest.test(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@231f98ef]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.ElementsValidationTest@61832929]" test-instance-name="text (current location)" name="test" duration-ms="17429" started-at="2017-02-25T22:50:40Z" data-provider="dp" finished-at="2017-02-25T22:50:57Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Dynamic text (quote)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[index.php]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[id_quotes]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[(1901, 20)]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[(9, 49)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="am()[pri:0, instance:core.ElementsValidationTest@61832929]" test-instance-name="text (current location)" name="am" is-config="true" duration-ms="469" started-at="2017-02-25T22:50:57Z" finished-at="2017-02-25T22:50:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- am -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.ElementsValidationTest@61832929]" test-instance-name="text (current location)" name="test" duration-ms="10474" started-at="2017-02-25T22:50:58Z" data-provider="dp" finished-at="2017-02-25T22:51:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Page title (Sing Up)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[index.php]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[id_f_title]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[(151, 44)]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[(554, 87)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="bm(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.ElementsValidationTest@61832929]" test-instance-name="text (current location)" name="bm" is-config="true" duration-ms="0" started-at="2017-02-25T22:50:58Z" finished-at="2017-02-25T22:50:58Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.ElementsValidationTest.test(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@7c137fd5]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method status="PASS" signature="am()[pri:0, instance:core.ElementsValidationTest@61832929]" test-instance-name="text (current location)" name="am" is-config="true" duration-ms="193" started-at="2017-02-25T22:51:08Z" finished-at="2017-02-25T22:51:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- am -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.ElementsValidationTest@61832929]" test-instance-name="text (current location)" name="test" duration-ms="9983" started-at="2017-02-25T22:51:08Z" data-provider="dp" finished-at="2017-02-25T22:51:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[text (current location)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[index.php]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[id_current_location]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[(178, 24)]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[(1150, 71)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="bm(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.ElementsValidationTest@61832929]" test-instance-name="text (current location)" name="bm" is-config="true" duration-ms="0" started-at="2017-02-25T22:51:08Z" finished-at="2017-02-25T22:51:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.ElementsValidationTest.test(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@183ec003]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method status="PASS" signature="am()[pri:0, instance:core.ElementsValidationTest@61832929]" test-instance-name="text (current location)" name="am" is-config="true" duration-ms="132" started-at="2017-02-25T22:51:18Z" finished-at="2017-02-25T22:51:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- am -->
+      </class> <!-- core.ElementsValidationTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
